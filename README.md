@@ -11,3 +11,5 @@ The following files were given:
 - *subscription_prices.json*
 
 The analysis was presented with the help of a slide deck (*churn_analysis_presentation.pdf*) during a successful final interview!
+
+![Slide 3](./images/churn_analysis_slides_3.jpg)
